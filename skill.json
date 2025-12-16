@@ -1,0 +1,27 @@
+{
+  "name": "tally-design-system",
+  "displayName": "Tally Design System",
+  "version": "1.0.0",
+  "description": "A minimal, clean design system inspired by Tally.so - CSS variables, components, and examples for modern web apps",
+  "author": "smhunt",
+  "license": "MIT",
+  "tags": ["design-system", "css", "ui", "components", "tally", "styling", "frontend"],
+  "type": "design-system",
+  "instructionsFile": "SKILL_INSTRUCTIONS.md",
+  "files": {
+    "main": "css/tally-theme.css",
+    "examples": "examples/index.html",
+    "readme": "README.md"
+  },
+  "capabilities": [
+    "css-variables",
+    "ui-components",
+    "design-tokens",
+    "responsive-design"
+  ],
+  "usage": {
+    "installation": "Link the tally-theme.css file in your HTML head section",
+    "import": "<link rel=\"stylesheet\" href=\"css/tally-theme.css\">",
+    "documentation": "See SKILL_INSTRUCTIONS.md for detailed component usage"
+  }
+}
